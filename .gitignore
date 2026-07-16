@@ -1,0 +1,21 @@
+# Archivos de contenido de Kiwix
+*.zim
+*.zim.descarga
+*.descarga
+
+# Paquetes generados para publicar como Release
+*.zip
+
+# Configuración local
+config.json
+
+# Registros y estado de ejecución
+*.log
+ULTIMA_VERSION.txt
+
+# Archivos automáticos de Windows
+Thumbs.db
+Desktop.ini
+
+# Archivos automáticos de macOS
+.DS_Store
